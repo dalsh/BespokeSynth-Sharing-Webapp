@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bespoke-Sharing-Webapp/static/css/main.149323ca.chunk.css",
+    "main.js": "/Bespoke-Sharing-Webapp/static/js/main.bff88e6c.chunk.js",
+    "main.js.map": "/Bespoke-Sharing-Webapp/static/js/main.bff88e6c.chunk.js.map",
+    "runtime-main.js": "/Bespoke-Sharing-Webapp/static/js/runtime-main.e4fe7c55.js",
+    "runtime-main.js.map": "/Bespoke-Sharing-Webapp/static/js/runtime-main.e4fe7c55.js.map",
+    "static/js/2.4eb748ca.chunk.js": "/Bespoke-Sharing-Webapp/static/js/2.4eb748ca.chunk.js",
+    "static/js/2.4eb748ca.chunk.js.map": "/Bespoke-Sharing-Webapp/static/js/2.4eb748ca.chunk.js.map",
+    "index.html": "/Bespoke-Sharing-Webapp/index.html",
+    "static/css/main.149323ca.chunk.css.map": "/Bespoke-Sharing-Webapp/static/css/main.149323ca.chunk.css.map",
+    "static/js/2.4eb748ca.chunk.js.LICENSE.txt": "/Bespoke-Sharing-Webapp/static/js/2.4eb748ca.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Bespoke-Sharing-Webapp/static/media/FranklinGothic-Book.5f3bdaf1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4fe7c55.js",
+    "static/js/2.4eb748ca.chunk.js",
+    "static/css/main.149323ca.chunk.css",
+    "static/js/main.bff88e6c.chunk.js"
+  ]
+}
