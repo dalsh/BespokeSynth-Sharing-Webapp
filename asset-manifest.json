@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.ac7d4ad0.chunk.css",
-    "main.js": "./static/js/main.421a6fa3.chunk.js",
-    "main.js.map": "./static/js/main.421a6fa3.chunk.js.map",
+    "main.js": "./static/js/main.11e0f5d8.chunk.js",
+    "main.js.map": "./static/js/main.11e0f5d8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.3be602cf.js",
     "runtime-main.js.map": "./static/js/runtime-main.3be602cf.js.map",
-    "static/js/2.4eb748ca.chunk.js": "./static/js/2.4eb748ca.chunk.js",
-    "static/js/2.4eb748ca.chunk.js.map": "./static/js/2.4eb748ca.chunk.js.map",
+    "static/js/2.91bd82bb.chunk.js": "./static/js/2.91bd82bb.chunk.js",
+    "static/js/2.91bd82bb.chunk.js.map": "./static/js/2.91bd82bb.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.ac7d4ad0.chunk.css.map": "./static/css/main.ac7d4ad0.chunk.css.map",
-    "static/js/2.4eb748ca.chunk.js.LICENSE.txt": "./static/js/2.4eb748ca.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/FranklinGothic-Book.5f3bdaf1.woff"
+    "static/js/2.91bd82bb.chunk.js.LICENSE.txt": "./static/js/2.91bd82bb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/FranklinGothic-Book.5f3bdaf1.woff",
+    "static/media/copyleft.3f7759ac.svg": "./static/media/copyleft.3f7759ac.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3be602cf.js",
-    "static/js/2.4eb748ca.chunk.js",
+    "static/js/2.91bd82bb.chunk.js",
     "static/css/main.ac7d4ad0.chunk.css",
-    "static/js/main.421a6fa3.chunk.js"
+    "static/js/main.11e0f5d8.chunk.js"
   ]
 }
